@@ -16,10 +16,12 @@ Working through the design document provided a structured approach to visualizin
 
 If I were to revise one aspect, I would focus on the technical specifications section. Adding more detailed diagrams or flowcharts could improve understanding of the data flow and interactions between system components. Tools like UML diagrams could enhance clarity and precision.
 
-Addressing User Needs in Software Design
+**Addressing User Needs in Software Design**
+
 To interpret the user's needs, I closely analyzed the project brief, ensuring the design included all requested features, such as game session management and score tracking. Considering the user’s perspective is crucial in design to ensure the software is intuitive, accessible, and meets their expectations for functionality and usability.
 
-Approach to Software Design and Future Strategies
+**Approach to Software Design and Future Strategies**
+
 I approached the design systematically by:
 
 Breaking down requirements into functional and non-functional components.
