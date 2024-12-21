@@ -1,6 +1,6 @@
 # Software Design Document Summary and Reflections
 
-'Summary of The Gaming Room Client and Their Requirements'
+**Summary of The Gaming Room Client and Their Requirements**
 The Gaming Room is a client seeking a scalable and efficient software solution to support their gaming application, Draw It or Lose It, a turn-based drawing and guessing game. They required a cross-platform design that ensures smooth gameplay across multiple devices, with the ability to manage game sessions, track scores, and provide a user-friendly interface.
 
 Strengths in Developing the Documentation
