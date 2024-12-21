@@ -1,15 +1,19 @@
 # Software Design Document Summary and Reflections
 
 **Summary of The Gaming Room Client and Their Requirements**
+
 The Gaming Room is a client seeking a scalable and efficient software solution to support their gaming application, Draw It or Lose It, a turn-based drawing and guessing game. They required a cross-platform design that ensures smooth gameplay across multiple devices, with the ability to manage game sessions, track scores, and provide a user-friendly interface.
 
-Strengths in Developing the Documentation
+**Strengths in Developing the Documentation**
+
 I excelled in organizing the document into clear and logical sections, ensuring it addressed all critical aspects, from requirements gathering to system architecture. My attention to detail in describing workflows and user interactions helped clarify how the software aligns with client needs.
 
-Insights Gained from the Process
+**Insights Gained from the Process**
+
 Working through the design document provided a structured approach to visualizing the project. It highlighted the importance of planning system components and workflows before coding, allowing me to identify potential issues and ensure the design met client requirements.
 
-Areas for Improvement
+**Areas for Improvement**
+
 If I were to revise one aspect, I would focus on the technical specifications section. Adding more detailed diagrams or flowcharts could improve understanding of the data flow and interactions between system components. Tools like UML diagrams could enhance clarity and precision.
 
 Addressing User Needs in Software Design
